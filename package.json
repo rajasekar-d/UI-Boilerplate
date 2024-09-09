@@ -1,0 +1,22 @@
+{
+  "name": "zyris",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.78.0"
+  },
+  "dependencies": {
+    "bulma": "^1.0.2"
+  }
+}

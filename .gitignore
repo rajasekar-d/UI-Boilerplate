@@ -1,0 +1,13 @@
+# Node
+/node_modules
+npm-debug.log
+
+# Miscellaneous
+/.vscode
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temp
+/dist
